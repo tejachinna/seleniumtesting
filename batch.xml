@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG.PriorityInvocationEnble"/>
+      <class name="TestNG.InvocationCountPractice"/>
+      <class name="TestNG.SystemandBrowseProperties"/>
+      <class name="TestNG.PriorityFlagPrvctice"/>
+      <class name="TestNG.EnabledPractice"/>
+      <class name="TestNG.SampleTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
